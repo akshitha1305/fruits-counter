@@ -33,6 +33,11 @@
   width: 300px;
   margin: 20px;
 }
+@media (max-width: 576px) {
+  .image {
+    width: 200px;
+  }
+}
 .container {
   display: flex;
   flex-direction: column;
