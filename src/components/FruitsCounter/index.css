@@ -32,6 +32,7 @@
 .image {
   width: 300px;
   margin: 20px;
+  outline: none;
 }
 @media (max-width: 576px) {
   .image {
@@ -52,4 +53,5 @@
   background-color: #007bff;
   border-style: none;
   cursor: pointer;
+  outline: none;
 }
